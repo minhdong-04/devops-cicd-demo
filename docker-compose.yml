@@ -1,0 +1,28 @@
+
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: devops-demo-app
+    ports:
+      - "5000:5000"
+    environment:
+      - ENVIRONMENT=development
+      - FLASK_DEBUG=False
+    volumes:
+      # Mount code để dev, nhớ không có dấu cách
+      - ./app.py:/app/app.py
+      - ./templates:/app/templates
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "-q", "http://localhost:5000/api/health", "-O", "/dev/null"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+networks:
+  default:
+    name: devops-demo-network

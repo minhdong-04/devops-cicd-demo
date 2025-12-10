@@ -1,0 +1,14 @@
+# 📸 Images Directory
+
+Thư mục này chứa các hình ảnh cho documentation và presentation. 
+
+## Required Screenshots
+
+### 1. `screenshot-app.png`
+- Screenshot trang chủ application
+- Resolution: 1920x1080 hoặc tương đương
+- Format: PNG
+- Cách chụp: 
+  ```bash
+  # Mở app:  http://localhost:5000
+  # Full page screenshot (F12 → Ctrl+Shift+P → "Screenshot")
