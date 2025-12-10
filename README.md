@@ -1,3 +1,12 @@
+## 👥 Thành Viên Nhóm
+
+| STT | Họ và Tên | MSSV | Vai trò | GitHub |
+|-----|-----------|------|---------|--------|
+| 1 | Phan Võ Minh Đồng | DH52200514 | Full | [@minhdong-04](https://github.com/minhdong-04/devops-cicd-demo.git) 
+
+
+
+
 # 🚀 DevOps & CI/CD Demo Project
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
