@@ -676,17 +676,6 @@ Contributions are welcome!  Xem [CONTRIBUTING.md](CONTRIBUTING.md) để biết 
 
 ---
 
-## 👥 Thành Viên Nhóm
-
-| STT | Họ và Tên | MSSV | Vai trò | GitHub |
-|-----|-----------|------|---------|--------|
-| 1 | [Tên thành viên 1] | [MSSV] | Team Lead | [@username1](https://github.com/username1) |
-| 2 | [Tên thành viên 2] | [MSSV] | DevOps Engineer | [@username2](https://github.com/username2) |
-| 3 | [Tên thành viên 3] | [MSSV] | Backend Developer | [@username3](https://github.com/username3) |
-| 4 | [Tên thành viên 4] | [MSSV] | Documentation | [@username4](https://github.com/username4) |
-
----
-
 ## 📝 License
 
 Project này được phát hành dưới [MIT License](LICENSE).
