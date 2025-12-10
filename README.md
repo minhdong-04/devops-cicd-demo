@@ -578,7 +578,12 @@ GET /api/pipeline
 ## 📸 Screenshots
 
 ### Trang chủ
-![Home Page](docs/images/screenshot-app. png)
+![Home Page](docs/images/1.png)
+![Home Page](docs/images/2.png)
+![Home Page](docs/images/3.png)
+![Home Page](docs/images/4.png)
+![Home Page](docs/images/5.png)
+![Home Page](docs/images/6.png)
 
 ### CI/CD Pipeline
 ![Pipeline](docs/images/pipeline-diagram.png)
