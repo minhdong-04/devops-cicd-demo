@@ -752,7 +752,7 @@ Qua project này, nhóm đã học được:
 
 Nếu có câu hỏi hoặc góp ý, vui lòng: 
 
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [minhdong9678@gmail.com]
 - 🐛 Issues: [GitHub Issues](https://github.com/minhdong-04/devops-cicd-demo/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/minhdong-04/devops-cicd-demo/discussions)
 
@@ -765,7 +765,7 @@ Nếu có câu hỏi hoặc góp ý, vui lòng:
   ║                                                       ║
   ║   🚀 Happy Learning DevOps & CI/CD!  🚀               ║
   ║                                                       ║
-  ║   Made with ❤️ by DevOps Demo Team                   ║
+  ║   Made with ❤️ by Minh Đồng                          ║
   ║                                                       ║
   ╚═══════════════════════════════════════════════════════╝
 ```
